@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+body {
+    text-align: center;
+    font: 20pt Arial;
+}
+
+h1,h2,h3 {
+    font-family: 'Amatic SC';
+    font-weight: normal;
+}
+
+button {
+    font-size: 25pt;
+    padding: 30px;
+    border-radius: 50px;
+    color: purple;
+}
